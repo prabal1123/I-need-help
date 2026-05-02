@@ -1,0 +1,61 @@
+.privacy {
+  padding: 120px 20px;
+  background: #f5f5f3;
+}
+
+.privacy-container {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Title */
+.privacy h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+  color: #2d3e1f;
+}
+
+.updated {
+  color: #777;
+  margin-bottom: 30px;
+}
+
+/* Headings */
+.privacy h2 {
+  margin-top: 40px;
+  color: #2d3e1f;
+  font-size: 26px;
+}
+
+.privacy h3 {
+  margin-top: 20px;
+  color: #2d3e1f;
+}
+
+/* Paragraph text */
+.privacy p {
+  margin-top: 10px;
+  color: #555;
+  line-height: 1.7;
+}
+
+/* LIST */
+.privacy ul {
+  margin-top: 12px;
+  padding-left: 22px;
+}
+
+.privacy li {
+  margin-bottom: 6px;
+  color: #555;
+}
+
+/* Links */
+.privacy a {
+  color: #5a7537;
+  text-decoration: none;
+}
+
+.privacy a:hover {
+  text-decoration: underline;
+}
